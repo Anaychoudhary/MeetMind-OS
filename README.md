@@ -19,7 +19,24 @@ Voice-first AI meeting intelligence system with persistent meeting memory.
 
 ## How to Run
 
+```md
 ### Backend
+
 ```bash
 cd Backend/Backend
 ./mvnw.cmd spring-boot:run
+```
+
+### Frontend
+
+```bash
+cd Frontend
+npm install
+npm run dev
+```
+
+## Author
+
+Anay Choudhary
+
+```
