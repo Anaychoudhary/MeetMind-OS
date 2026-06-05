@@ -26,7 +26,7 @@ Voice-first AI meeting intelligence system with persistent meeting memory.
 cd Backend/Backend
 ./mvnw.cmd spring-boot:run
 ```
-
+```md
 ### Frontend
 
 ```bash
@@ -39,4 +39,5 @@ npm run dev
 
 Anay Choudhary
 
+Open Summer Internship Hackathon 2026
 ```
