@@ -47,7 +47,11 @@ MeetMind OS is an AI-powered meeting assistant that transforms meeting conversat
 ---
 ## Dashboard Preview
 
-![MeetMind OS Dashboard](dashboard.png)
+![MeetMind OS Dashboard](dashboard1.png)
+
+## Dashboard Preview
+
+![MeetMind OS Dashboard](dashboard2.png)
 ---
 
 ## 🏗️ System Architecture
